@@ -1,1 +1,0 @@
-[![Node.js CI](https://github.com/Ben4-front/ajs_matchers/actions/workflows/node.js.yml/badge.svg)](https://github.com/Ben4-front/ajs_matchers/actions/workflows/node.js.yml)
